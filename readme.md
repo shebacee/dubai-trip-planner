@@ -105,10 +105,6 @@ Sheba
 - GitHub: https://github.com/shebacee
 - LinkedIn: www.linkedin.com/in/fathimath-sheba-c
 
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ##  Acknowledgments
 
 - OpenAI for providing the GPT-4o-mini API
@@ -118,3 +114,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
