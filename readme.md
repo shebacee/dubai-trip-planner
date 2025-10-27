@@ -19,7 +19,7 @@
 ##  Prerequisites
 
 - Python 3.7 or higher
-- OpenAI API key ([Get one here](https://platform.openai.com/api-keys))
+- OpenAI API key 
 - pip package manager
 
 ##  Installation & Setup
@@ -114,4 +114,5 @@ Sheba
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
 
